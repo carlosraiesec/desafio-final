@@ -8,3 +8,7 @@ p{margin-top:5%;font-family:'Roboto', sans-serif ;font-size: 2vw;margin-bottom: 
 .card{background-color: green;text-align: center;margin-left: 12px;}
 .card-text{font-family: 'Roboto', sans-serif;}
 .img2{height: 250px;}
+.card-link{font-size: 2vw;}
+#scrollspyHeading4{margin-top: 15%; text-align: center;font-family:'Roboto', sans-serif;font-size: 2vw;color: whitesmoke;}
+.mb-3{background-color: dodgerblue;border-radius:4px;max-width: 98%;text-align: center;margin-left: 1%;}
+.fa-regular{color:whitesmoke;display: block; margin-left: 33%;}
