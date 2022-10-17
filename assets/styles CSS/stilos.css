@@ -1,3 +1,10 @@
 .navbar{background-color: dodgerblue;font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;font-weight: bold;}
 h1{font-size:4vw ;font-family: 'Roboto', sans-serif;color:rgb(38, 234, 25);position: absolute;top: 80%;right: 2%;}
 img{max-height: 350px; max-width: 100%;}
+body{background-color: black;}
+#scrollspyHeading2{margin-top: 15%; text-align: center;font-family:'Roboto', sans-serif;font-size: 2vw;color: whitesmoke;}
+p{margin-top:5%;font-family:'Roboto', sans-serif ;font-size: 2vw;margin-bottom: 5%;width: 80%;margin-left: 10%;text-align: center;color: whitesmoke;}
+#scrollspyHeading3{margin-top: 15%; text-align: center;font-family:'Roboto', sans-serif;font-size: 2vw;color: whitesmoke;}
+.card{background-color: green;text-align: center;margin-left: 12px;}
+.card-text{font-family: 'Roboto', sans-serif;}
+.img2{height: 250px;}
